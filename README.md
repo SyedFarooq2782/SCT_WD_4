@@ -73,7 +73,7 @@ https://<your-github-username>.github.io/<repository-name>/
 ```
 
 Example for your profile:
-➡️ [https://SyedFarooq2782.github.io/SCT_WD_4/](https://SyedFarooq2782.github.io/SCT_WD_4/)
+➡️ [https://github.com/SyedFarooq2782/SCT_WD_4](https://github.com/SyedFarooq2782/SCT_WD_4)
 
 ## 🎯 How to Use
 
