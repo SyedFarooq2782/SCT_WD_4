@@ -54,12 +54,12 @@ Welcome to the Smart To-Do web application repository! This is a dynamic, browse
 	SCT_WD_4/
 	├── index.html           	   # Main HTML file
 	├── style.css            	   # CSS styles (light/dark mode, layout)
-	├── app.js               	   # Game logic with DOM interactions
+	├── script.js               	   # Game logic with DOM interactions
 	├── README.md            	   # Project documentation
-	├── output          	   # 🖨️ Printable version of the website│
-  ├── images/             	   # 🖼️ Folder for all screenshots and output images
-   		├── img1.jpg
-    		├── img2.jpg
+	├── Output          	           # 🖨️ Printable version of the website│
+        ├── images/             	   # 🖼️ Folder for all screenshots and output images
+   		├── img1.png
+    		├── img2.png
     		└── ...
     		
 ```
